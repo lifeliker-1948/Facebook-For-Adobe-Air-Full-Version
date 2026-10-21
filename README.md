@@ -228,4 +228,4 @@ This repository serves as the official landing page for Facebook for Adobe AIR. 
 **Get the most recent version of Facebook for Adobe AIR today!**
 
 ---
-**Last updated:** 2026-10-20 21:00:16 UTC
+**Last updated:** 2026-10-21 00:14:00 UTC
